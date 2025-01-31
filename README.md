@@ -159,8 +159,8 @@ streamlit run app.py
 - Uses **TensorFlow/Keras**.
 - Input images are **preprocessed, resized, and normalized** before prediction.
 - Model output:
-  - **Fake Image (Score > 0.5)** → Classified as **Fake**.
-  - **Real Image (Score <= 0.5)** → Classified as **Real**.
+  - Classified as **Fake**.
+  - Classified as **Real**.
 
 ---
 
